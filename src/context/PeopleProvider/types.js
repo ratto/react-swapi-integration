@@ -1,0 +1,2 @@
+export const PEOPLE_LOADING = "PEOPLE_LOADING";
+export const PEOPLE_SUCCESS = "PEOPLE_SUCCESS";
